@@ -1,6 +1,6 @@
 # meals
 
-This template should help get you started developing with Vue 3 in Vite.
+本项目利用组件化思想+SPA(单页面模式)，使用Vue3+Vite等相关技术，实现了美团外卖点餐页面，并利用flex布局+rem百分比响应实现了页面自适应
 
 ## Recommended IDE Setup
 
